@@ -2,7 +2,7 @@
 ## Decisões
 
 IDs sequenciais simples.
-Porta padrão: 8080 {localhost:8080}
+Porta padrão: 8005 {localhost:8005}
 
 ### Stack
 
