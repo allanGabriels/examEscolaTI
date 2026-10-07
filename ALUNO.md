@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Allan Gabriel
+Nome: Allan Gabriel da Silva
 
-RA: >>> PREENCHER <<<
+RA: 232114672
 
 Conta GitHub: @allanGabriels
 
