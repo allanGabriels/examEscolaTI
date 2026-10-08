@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "repo": "examEscolaTI",
+  "repo_url": "https://github.com/allanGabriels/examEscolaTI",
+  "exam_dir": "exams/2026/track-01-especificacao-sdd",
+  "track": "track-01-especificacao-sdd",
+  "issue": 1,
+  "issue_url": "https://github.com/allanGabriels/examEscolaTI/issues/1",
+  "gerado_em": "2026-10-08T00:16:15+00:00",
+  "fechada_em": "2026-10-08T00:15:56Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "allanGabriels",
+    "ra": "232114672",
+    "nome": "Allan Gabriel da Silva"
+  },
+  "variante": {
+    "slug": "examEscolaTI",
+    "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+    "TARIFA_HORA_CENTAVOS": 600,
+    "FRACAO_MINUTOS": 15,
+    "TETO_DIARIO_CENTAVOS": 6000,
+    "PORTA_SERVICO": 8005,
+    "TOLERANCIA_MINUTOS": 15
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-07T22:17:27Z",
+    "ultimo_push": "2026-10-07T21:13:20-03:00"
+  },
+  "commits": {
+    "total": 8,
+    "autores": [
+      "Allan Gabriel",
+      "Allan Silva"
+    ],
+    "primeiro": "2026-10-07T19:07:37-03:00",
+    "ultimo": "2026-10-07T21:13:20-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 12
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 0
+  }
+}
