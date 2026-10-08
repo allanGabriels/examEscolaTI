@@ -83,3 +83,10 @@ UC8 — Permitir somente um bilhete aberto por placa
   - Antes de abrir um bilhete, deve verificar se a placa já possui um bilhete aberto.
   - Quando existir um bilhete aberto para a placa, deve retornar 409 com {"erro": "bilhete_em_aberto"}.
   - Depois de encerrar ou cancelar o bilhete, deve permitir a abertura de outro para a mesma placa.
+
+  ### Variáveis
+  TARIFA_HORA_CENTAVOS = 600
+  FRACAO_MINUTOS = 15
+  TETO_DIARIO_CENTAVOS = 6000
+  PORTA_SERVICO = 8005
+  TOLERANCIA_MINUTOS = 15
